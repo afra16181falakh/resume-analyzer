@@ -33,20 +33,3 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
    ```
 3. View the results in the `output` folder
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeatureName`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeatureName`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries, please contact [Your Email Address]
