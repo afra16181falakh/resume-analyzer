@@ -8,6 +8,7 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
 - **Keyword Analysis**: Identifies relevant skills and qualifications
 - **Ranking System**: Ranks resumes based on predefined criteria
 - **Customizable**: Easily adapt to different job requirements
+- **Logging**: Tracks requests and responses for better debugging and analysis
 
 ## Installation
 
@@ -26,10 +27,22 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
 
 ## Usage
 
-1. Place your resumes in the `resumes` folder
+1. Place your resumes in the `resumes` folder.
 2. Run the analyzer:
    ```bash
    python resume_ranker.py
    ```
-3. View the results in the `output` folder
+3. View the results in the `output` folder.
 
+## Recent Updates
+
+- Added logging functionality to track request metadata.
+- Introduced a new endpoint for enhanced resume analysis.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you'd like to see.
+
+## License
+
+This project is licensed under the MIT License.
