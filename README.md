@@ -43,6 +43,3 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you'd like to see.
 
-## License
-
-This project is licensed under the MIT License.
