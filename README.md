@@ -19,7 +19,6 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
 - **Logging**: Implemented for tracking request metadata and debugging.
 
 ## Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/afra16181falakh/resume-analyzer.git
