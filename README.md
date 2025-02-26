@@ -12,7 +12,6 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
 
 
 ## Technologies Used
- 
 - **Spacy**: A library for natural language processing, used for resume parsing and analysis.
 - **Transformers**: A library for state-of-the-art natural language processing models, potentially used for advanced text analysis.
 - **OpenAI API**: If utilized, this would be for leveraging AI capabilities in analyzing resumes.
