@@ -43,7 +43,6 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
 3. View the results in the `output` folder.
 
 ## Recent Updates
-
 - Added logging functionality to track request metadata.
 - Introduced a new endpoint for enhanced resume analysis.
 
