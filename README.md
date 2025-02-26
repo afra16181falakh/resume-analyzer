@@ -34,7 +34,6 @@ Resume Analyzer is a Python-based tool designed to help users analyze and rank r
    ```
 
 ## Usage
-
 1. Place your resumes in the `resumes` folder.
 2. Run the analyzer:
    ```bash
