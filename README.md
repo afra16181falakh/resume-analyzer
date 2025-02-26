@@ -3,7 +3,6 @@
 Resume Analyzer is a Python-based tool designed to help users analyze and rank resumes based on specific criteria. This project is particularly useful for recruiters and hiring managers who need to process large numbers of resumes efficiently.
 
 ## Features
-
 - **Resume Parsing**: Extracts key information from resumes
 - **Keyword Analysis**: Identifies relevant skills and qualifications
 - **Ranking System**: Ranks resumes based on predefined criteria
